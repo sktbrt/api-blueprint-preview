@@ -1,4 +1,5 @@
-Dockerコンテナ上でAPI Blueprintで書かれたドキュメントをaglioで変換してプレビューする
+Dockerコンテナ上でAPI Blueprintで書かれたドキュメントをaglioで変換してプレビューします。
+Dockerコマンドの-vオプションでマウントされたディレクトリをGulpでWatchしていて、リアルタイムで反映します。
 
 # 使い方
 ## git clone
